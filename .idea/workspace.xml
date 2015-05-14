@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="019728d1-7bf4-40d4-bb46-8c18c869dd21" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Rouger.iws" />
@@ -41,7 +40,7 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7995">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8010">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -341,6 +340,11 @@
       <created>1431624562191</created>
       <updated>1431624562191</updated>
     </task>
+    <task id="LOCAL-00001" summary="Retest">
+      <created>1431630342127</created>
+      <updated>1431630342127</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -391,7 +395,8 @@
     <MESSAGE value="&#10;" />
     <MESSAGE value="Just another test&#10;" />
     <MESSAGE value="Creates window&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creates window&#10;" />
+    <MESSAGE value="Retest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Retest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
