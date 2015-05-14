@@ -3,13 +3,20 @@ import javax.swing.*;
 /**
  * Created by harrison_brewton on 5/14/15.
  */
-public class GWIndow
+public class GWindow extends JPanel
 {
     public static void main(String[] args)
     {
-        System.out.println("test");
-        System.out.println("bird");
-        JFrame frame = new JFrame("Test");
-        System.out.println("tree");
+        JFrame frame = new JFrame("Rouger");
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+        frame.add(new GWindow());
+        frame.pack();
+        frame.setVisible(true);
+    }
+
+    public GWindow()
+    {
+        setPreferredSize(java.awt.Toolkit.getDefaultToolkit().getScreenSize());
     }
 }
